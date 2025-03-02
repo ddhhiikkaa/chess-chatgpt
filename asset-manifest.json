@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chess-chatgpt/static/css/main.e6c13ad2.css",
+    "main.js": "/chess-chatgpt/static/js/main.7b95abad.js",
+    "static/js/453.223aaf55.chunk.js": "/chess-chatgpt/static/js/453.223aaf55.chunk.js",
+    "index.html": "/chess-chatgpt/index.html",
+    "main.e6c13ad2.css.map": "/chess-chatgpt/static/css/main.e6c13ad2.css.map",
+    "main.7b95abad.js.map": "/chess-chatgpt/static/js/main.7b95abad.js.map",
+    "453.223aaf55.chunk.js.map": "/chess-chatgpt/static/js/453.223aaf55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7b95abad.js"
+  ]
+}
